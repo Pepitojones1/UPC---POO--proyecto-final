@@ -1,5 +1,5 @@
 package model;
-
+//inica proceso
 public class BaseAlumno extends Persona{
 
     private String codigoalumno;
@@ -33,3 +33,4 @@ public class BaseAlumno extends Persona{
     }
 
 }
+// fin de proceso
