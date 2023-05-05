@@ -1,5 +1,5 @@
 package model;
-
+//inica proceso
 public class BaseAlumno extends Persona{
 
     private String codigoalumno;
